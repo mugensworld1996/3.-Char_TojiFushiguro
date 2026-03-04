@@ -1,0 +1,19 @@
+[Info]
+name="Toji Fushiguro"
+displayname="Toji Fushiguro"
+versiondate=
+mugenversion=
+author="Mugens World"
+pal.defaults=1,
+[Files]
+sprite=tojifushiguro.sff
+sound=tojifushiguro.snd
+anim=tojifushiguro.air
+cmd=tojifushiguro.cmd
+cns=tojifushiguro.cns
+st=tojifushiguro.cns
+stcommon=common1.cns
+pal1=tojifushiguro.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
