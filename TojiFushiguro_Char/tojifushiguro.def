@@ -14,6 +14,7 @@ cns=tojifushiguro.cns
 st=tojifushiguro.cns
 stcommon=common1.cns
 pal1=tojifushiguro.act
+pal2=tojifushiguro2.act
 [Arcade]
 intro.storyboard=
 ending.storyboard=
